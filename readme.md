@@ -1,5 +1,7 @@
 # Clean Code Summary
 
+by Thomas Rüegg
+
 >"Clean code always looks like it was written by someone who cares."
 
 \- Michael Feathers
